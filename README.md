@@ -10,6 +10,6 @@ FACEBOOK DU GOUVERNEMENT AU https://www.facebook.com/gouvernement.fr/
 
 FACEBOOK DU MINISTERE DE L'INTERIEUR AU https://www.facebook.com/ministere.interieur/
 
-INFORMATIONS DIVERSES AU https://www.francetvinfo.fr/ ET AU https://www.lci.fr/
+INFORMATIONS DIVERSES AU https://www.francetvinfo.fr/, AU https://www.lci.fr/ ET AUSSI AUX JOURNAUX PAPIERS ET VISUELS
 
 
