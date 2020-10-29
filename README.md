@@ -14,5 +14,7 @@ INFORMATIONS DIVERSES AU https://www.francetvinfo.fr/ ET AU https://www.lci.fr/
 
 OUTILS PAR RAPPORT AU CORONAVIRUS AU https://github.com/luluvulcain/coronavirus/releases/tag/coronavirus
 
+ATTESTATION NUMERIQUE SUR SMARTPHONE AU https://github.com/luluvulcain/coronavirus/releases/tag/attestationmobile
+
 
 
