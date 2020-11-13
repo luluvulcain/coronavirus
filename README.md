@@ -16,5 +16,7 @@ OUTILS PAR RAPPORT AU CORONAVIRUS AU https://github.com/luluvulcain/coronavirus/
 
 ATTESTATION NUMERIQUE SUR SMARTPHONE AU https://github.com/luluvulcain/coronavirus/releases/tag/attestationmobile
 
+APPLICATIONS ANDROID POUR SE DEPLACER LORS DU CONFINEMENT AU https://github.com/luluvulcain/coronavirus/releases/tag/confinementandroid
+
 
 
