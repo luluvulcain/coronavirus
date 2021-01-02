@@ -18,7 +18,7 @@ ATTESTATION NUMERIQUE SUR SMARTPHONE AU https://github.com/luluvulcain/coronavir
 
 APPLICATIONS ANDROID POUR SE DEPLACER LORS DU CONFINEMENT AU https://github.com/luluvulcain/coronavirus/releases/tag/confinementandroid
 
-RENSEIGNEMENTS SUR LE COUVRE-FEU A TELECHARGER EN FICHIER ZIP AU https://github.com/luluvulcain/coronavirus/blob/master/Couvre-Feu-Covid19.zip
+RENSEIGNEMENTS SUR LE COUVRE-FEU AU https://github.com/luluvulcain/coronavirus/blob/master/Couvre-Feu-Covid19.zip
 
 
 
